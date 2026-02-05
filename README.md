@@ -1,6 +1,6 @@
 ## 1 Overview
 
-**Smart News Summarizer & Analyzer** is an end‑to‑end project that takes raw news articles
+**NewsNLP** is an end‑to‑end project that takes raw news articles
 from an API and turns them into readable summaries, topics and interactive visualizations.
 
 Phase | Description | Status
@@ -160,4 +160,4 @@ Skripty:
   - multi‑language support,
   - lepší hodnocení shrnutí (ROUGE, BLEU).
 
-_Last updated 2025‑12‑18_
+_Last updated 2026‑02‑5_
